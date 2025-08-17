@@ -15,7 +15,7 @@ Create visualizations for analytical reporting and to enable informed decision m
 - Format the charts for building the dashboard for readability and theme
 
 ## 🚧 License    
-This project is licensed under the MIT License. You are free to use, modify, and share this projec twiht proper attribution.
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ## 🎁 About Me    
 Hello! I'm Nathaniel Hwan Choi, a finance grad but also a data enthusiast!
